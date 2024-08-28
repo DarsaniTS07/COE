@@ -1,0 +1,21 @@
+/* Basic reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e0e1e4;
+  color: #2f2d30;
+  margin: 0;
+  padding: 0;
+}
+
+/* App Container */
+.app {
+  display: flex;
+  min-height: 100vh;
+  width: 100%;
+}
